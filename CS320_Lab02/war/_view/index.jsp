@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -26,7 +25,7 @@
 <body>
     <h1>Game Chat</h1>
     <div class="chat-box">
-		
+        
     </div>
     
     <form action="index" method="post">

@@ -1,4 +1,4 @@
-package edu.ycp.cs320.lab02.rooms;
+package rooms;
 import java.util.HashMap;
 import java.util.Map;
 

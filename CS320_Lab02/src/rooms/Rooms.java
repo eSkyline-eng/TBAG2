@@ -1,6 +1,6 @@
-package edu.ycp.cs320.lab02.rooms;
+package rooms;
 
-import edu.ycp.cs320.lab02.rooms.RoomsConnections;
+import rooms.RoomsConnections;
 import java.util.HashMap;
 import java.util.Map;
 

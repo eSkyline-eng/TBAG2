@@ -1,6 +1,6 @@
-package edu.ycp.cs320.lab02.chara;
+package chara;
 
-import edu.ycp.cs320.lab02.rooms.Rooms;
+import rooms.Rooms;
 
 public class Player {
 	private Rooms currentRoom;

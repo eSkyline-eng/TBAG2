@@ -1,7 +1,7 @@
-package edu.ycp.cs320.lab02.game;
+package game;
 
-import edu.ycp.cs320.lab02.chara.Player;
-import edu.ycp.cs320.lab02.rooms.Rooms;
+import chara.Player;
+import rooms.Rooms;
 
 public class Game {
     public static void main(String[] args) {
